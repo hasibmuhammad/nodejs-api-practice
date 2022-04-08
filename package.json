@@ -1,0 +1,22 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "a rest api to get messages",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "messages",
+    "rest-api"
+  ],
+  "author": "Hasib Muhammad",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
