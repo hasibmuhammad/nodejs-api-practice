@@ -4,7 +4,7 @@
   "description": "a rest api to get messages",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "messages",
